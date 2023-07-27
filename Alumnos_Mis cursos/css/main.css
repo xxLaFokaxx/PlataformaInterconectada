@@ -434,10 +434,12 @@ body {
   top: 372px;
   left: 192px;
   font-family: Poppins;
-  font-weight: Medium;
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v263_588 {
   width: 214px;
@@ -447,10 +449,12 @@ body {
   top: 502px;
   left: 192px;
   font-family: Poppins;
-  font-weight: Medium;
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v263_591 {
   width: 239px;
@@ -460,10 +464,12 @@ body {
   top: 437px;
   left: 192px;
   font-family: Poppins;
-  font-weight: Medium;
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v263_592 {/*Imágen izquierda cursos*/
   width: 269px;
