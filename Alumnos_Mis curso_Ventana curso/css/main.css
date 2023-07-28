@@ -15,17 +15,14 @@ body {
   overflow: hidden;
 }
 .v239_92 {
-  width: 100%;
+  width: 1186px;
   height: 745px;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
   top: 214px;
   left: 127px;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
+  border-radius: 20px;
   overflow: hidden;
 }
 .v239_93 {
@@ -91,16 +88,21 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v239_101 {
+.v239_101 {/*Imagen de la izquierda*/
   width: 269px;
   height: 108px;
-  background: rgba(255,255,255,1);
+  background: url("../images/Rectangle\ 24.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
   top: 242px;
   left: 162px;
+  box-shadow: 0px 2.6205642223358154px 2px rgba(0, 0, 0, 0.25);
   overflow: hidden;
 }
+
 .v239_102 {
   width: 82px;
   color: rgba(0,0,0,1);
@@ -137,7 +139,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v239_105 {
+.v239_105 {/*Circulo parte de abajo*/
   width: 149px;
   height: 148px;
   background: rgba(255,255,255,1);
@@ -147,7 +149,7 @@ body {
   left: 821px;
   border-radius: 50%;
 }
-.v239_106 {
+.v239_106 {/*Circulo medio*/
   width: 149px;
   height: 149px;
   background: rgba(255,246,246,1);
@@ -157,7 +159,7 @@ body {
   left: 644px;
   border-radius: 50%;
 }
-.v239_107 {
+.v239_107 {/*Circulo superior*/
   width: 149px;
   height: 149px;
   background: rgba(255,255,255,1);
@@ -456,18 +458,15 @@ body {
   left: 128px;
   overflow: hidden;
 }
-.v299_223 {
-  width: 100%;
+.v299_223 {/*Banner inicio salir*/
+  width: 1082px;
   height: 78px;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 104px;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
+  border-radius: 20px;
   overflow: hidden;
 }
 .v299_224 {
@@ -495,9 +494,9 @@ body {
   text-align: left;
 }
 .v299_226 {
-  width: 217px;
+  width: 219px;
   height: 79px;
-  background: url("../images/v299_226.png");
+  background: url("../images/Logo\ baner\ itla\ 1.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
