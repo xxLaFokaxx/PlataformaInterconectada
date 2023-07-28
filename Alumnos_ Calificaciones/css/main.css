@@ -49,9 +49,12 @@ body {
   left: 33px;
   font-family: Poppins;
   font-weight: Medium;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v263_372 {
   width: 675px;
@@ -73,10 +76,12 @@ body {
   top: 0px;
   left: 0px;
   font-family: Poppins;
-  font-weight: SemiBold;
   font-size: 40px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v199_80 {
   width: 88px;
@@ -86,9 +91,12 @@ body {
   left: 33px;
   font-family: Poppins;
   font-weight: Medium;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v199_81 {
   width: 88px;
@@ -98,9 +106,12 @@ body {
   left: 33px;
   font-family: Poppins;
   font-weight: Medium;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v199_84 {
   width: 88px;
@@ -110,9 +121,12 @@ body {
   left: 33px;
   font-family: Poppins;
   font-weight: Medium;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v199_82 {
   width: 88px;
@@ -122,9 +136,12 @@ body {
   left: 33px;
   font-family: Poppins;
   font-weight: Medium;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v199_83 {
   width: 88px;
@@ -134,69 +151,87 @@ body {
   left: 33px;
   font-family: Poppins;
   font-weight: Medium;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v199_86 {
   width: 22px;
+  height: 34px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 75px;
   left: 210px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v199_88 {
   width: 28px;
+  height: 34px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 75px;
   left: 392px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v210_2 {
   width: 39px;
+  height: 34px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 75px;
   left: 498px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v210_3 {
   width: 55px;
+  height: 34px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 75px;
   left: 620px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v199_87 {
   width: 27px;
+  height: 34px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 75px;
   left: 295px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 22px;
+  font-size: 22.618px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v210_15 {
   width: 450px;
@@ -656,6 +691,9 @@ body {
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v263_367 {
   width: 214px;
@@ -668,6 +706,9 @@ body {
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v263_370 {
   width: 239px;
@@ -680,6 +721,9 @@ body {
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v263_371 {/*Imagen de la izquierda*/
   width: 269px;
