@@ -54,15 +54,18 @@ body {
 }
 .v239_96 {
   width: 159px;
+  height: 31px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 372px;
   left: 192px;
   font-family: Poppins;
-  font-weight: Medium;
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v239_97 {
   width: 214px;
@@ -75,6 +78,9 @@ body {
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v239_100 {
   width: 239px;
@@ -87,6 +93,9 @@ body {
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v239_101 {/*Imagen de la izquierda*/
   width: 269px;
@@ -162,7 +171,7 @@ body {
 .v239_107 {/*Circulo superior*/
   width: 149px;
   height: 149px;
-  background: rgba(255,255,255,1);
+  background: rgb(207, 15, 15);
   opacity: 1;
   position: absolute;
   top: 357px;
