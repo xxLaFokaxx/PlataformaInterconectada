@@ -1,0 +1,736 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v223_204 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(81,141,131,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v263_407 {
+  width: 100%;
+  height: 753px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 217px;
+  left: 128px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v263_390 {
+  width: 825px;
+  height: 466px;
+  background: url("../images/Supervision_Pagos_Alumnos/v263_390.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 331px;
+  left: 487px;
+  overflow: hidden;
+}
+.v223_208 {
+  width: 287px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 69px;
+  left: 22px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_209 {
+  width: 60px;
+  height: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_209.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 55px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_212 {
+  width: 287px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 153px;
+  left: 22px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_213 {
+  width: 60px;
+  height: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_213.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_216 {
+  width: 287px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 236px;
+  left: 22px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_217 {
+  width: 60px;
+  height: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_217.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 222px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_221 {
+  width: 60px;
+  height: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_221.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 55px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_224 {
+  width: 60px;
+  height: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_224.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_228 {
+  width: 60px;
+  height: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_228.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 222px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_231 {
+  width: 287px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 325px;
+  left: 22px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_232 {
+  width: 60px;
+  height: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_232.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 312px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_235 {
+  width: 287px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 409px;
+  left: 22px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_236 {
+  width: 60px;
+  height: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_236.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 395px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_243 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 55px;
+  left: 233px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_307 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 55px;
+  left: 433px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_312 {
+  width: 170px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 54px;
+  left: 654px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_316 {
+  width: 170px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 394px;
+  left: 654px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_313 {
+  width: 170px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 138px;
+  left: 654px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_314 {
+  width: 170px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 222px;
+  left: 654px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_315 {
+  width: 170px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 312px;
+  left: 654px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_309 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 222px;
+  left: 433px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_311 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 394px;
+  left: 433px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_308 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 138px;
+  left: 433px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_310 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 312px;
+  left: 433px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_244 {
+  width: 60px;
+  height: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_244.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 312px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_246 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 139px;
+  left: 233px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_304 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 222px;
+  left: 233px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_305 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 312px;
+  left: 233px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_306 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 394px;
+  left: 233px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_247 {
+  width: 60px;
+  height: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_247.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 395px;
+  left: 0px;
+  overflow: hidden;
+}
+.v223_254 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2px;
+  left: 233px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_288 {
+  width: 170px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 654px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_287 {
+  width: 220px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 433px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+}
+.v223_267 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_267.png");
+  opacity: 1;
+  position: absolute;
+  top: 55px;
+  left: 246px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_282 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_282.png");
+  opacity: 1;
+  position: absolute;
+  top: 55px;
+  left: 433px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_289 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_289.png");
+  opacity: 1;
+  position: absolute;
+  top: 55px;
+  left: 654px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_290 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_290.png");
+  opacity: 1;
+  position: absolute;
+  top: 55px;
+  left: 654px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_292 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_292.png");
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  left: 654px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_293 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_293.png");
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  left: 654px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_295 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_295.png");
+  opacity: 1;
+  position: absolute;
+  top: 222px;
+  left: 654px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_296 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_296.png");
+  opacity: 1;
+  position: absolute;
+  top: 222px;
+  left: 654px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_298 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_298.png");
+  opacity: 1;
+  position: absolute;
+  top: 312px;
+  left: 654px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_299 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_299.png");
+  opacity: 1;
+  position: absolute;
+  top: 312px;
+  left: 654px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_301 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_301.png");
+  opacity: 1;
+  position: absolute;
+  top: 395px;
+  left: 654px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_302 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_302.png");
+  opacity: 1;
+  position: absolute;
+  top: 395px;
+  left: 654px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_283 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_283.png");
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  left: 433px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_284 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_284.png");
+  opacity: 1;
+  position: absolute;
+  top: 222px;
+  left: 433px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_285 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_285.png");
+  opacity: 1;
+  position: absolute;
+  top: 312px;
+  left: 433px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_286 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_286.png");
+  opacity: 1;
+  position: absolute;
+  top: 395px;
+  left: 433px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_268 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_268.png");
+  opacity: 1;
+  position: absolute;
+  top: 139px;
+  left: 246px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_269 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_269.png");
+  opacity: 1;
+  position: absolute;
+  top: 222px;
+  left: 246px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_270 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_270.png");
+  opacity: 1;
+  position: absolute;
+  top: 395px;
+  left: 246px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v223_271 {
+  width: 64px;
+  background: url("../images/Supervision_Pagos_Alumnos/v223_271.png");
+  opacity: 1;
+  position: absolute;
+  top: 312px;
+  left: 246px;
+  border: 0.7541133165359497px solid rgba(0,0,0,1);
+}
+.v263_360 {
+  width: 100%;
+  height: 79px;
+  background: url("../images/Supervision_Pagos_Alumnos/v263_360.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 63px;
+  left: 128px;
+  overflow: hidden;
+}
+.v263_361 {
+  width: 100%;
+  height: 78px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 104px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v263_362 {
+  width: 286px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 15px;
+  left: 789px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v263_363 {
+  width: 101px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 15px;
+  left: 417px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v263_364 {
+  width: 217px;
+  height: 79px;
+  background: url("../images/Supervision_Pagos_Alumnos/v263_364.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v263_398 {
+  height: 736px;
+  background: url("../images/Supervision_Pagos_Alumnos/v263_398.png");
+  opacity: 1;
+  position: absolute;
+  top: 225px;
+  left: 451px;
+  border: 1px solid rgba(190,190,190,1);
+}
+.v263_399 {
+  width: 159px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 372px;
+  left: 192px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v263_403 {
+  width: 239px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 437px;
+  left: 192px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v263_404 {
+  width: 269px;
+  height: 108px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  left: 162px;
+  overflow: hidden;
+}

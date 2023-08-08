@@ -1,0 +1,545 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v197_91 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(81,141,131,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v239_165 {
+  width: 100%;
+  height: 745px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 214px;
+  left: 127px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v239_156 {
+  width: 214px;
+  height: 237px;
+  background: url("../images/Administrativos_supervision_Docente/v239_156.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 333px;
+  left: 522px;
+  box-shadow: 0px 2.817941904067993px 2px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v220_20 {
+  width: 214px;
+  height: 237px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+  overflow: hidden;
+}
+.v220_21 {
+  width: 214px;
+  height: 185px;
+  background: url("../images/Administrativos_supervision_Docente/v220_21.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v220_22 {
+  width: 214px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 185px;
+  left: 0px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v239_166 {
+  width: 429px;
+  height: 201px;
+  background: url("../images/Administrativos_supervision_Docente/v239_166.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 361px;
+  left: 853px;
+  box-shadow: 0px 2.817941904067993px 2px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v220_23 {
+  width: 429px;
+  height: 201px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 33px;
+  border-top-right-radius: 33px;
+  border-bottom-left-radius: 33px;
+  border-bottom-right-radius: 33px;
+  overflow: hidden;
+}
+.v220_24 {
+  width: 160px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 100px;
+  left: 247px;
+  font-family: Poppins;
+  font-weight: Light Italic;
+  font-size: 17px;
+  opacity: 1;
+  text-align: center;
+}
+.v220_25 {
+  width: 188px;
+  color: rgba(65,57,57,0.800000011920929);
+  position: absolute;
+  top: 148px;
+  left: 42px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v220_26 {
+  width: 138px;
+  color: rgba(65,57,57,0.800000011920929);
+  position: absolute;
+  top: 102px;
+  left: 68px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v220_27 {
+  width: 187px;
+  color: rgba(65,57,57,0.800000011920929);
+  position: absolute;
+  top: 60px;
+  left: 43px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v220_28 {
+  width: 429px;
+  background: url("../images/Administrativos_supervision_Docente/v220_28.png");
+  opacity: 1;
+  position: absolute;
+  top: 47px;
+  left: 0px;
+  border: 0.7044854760169983px solid rgba(0,0,0,1);
+}
+.v220_30 {
+  width: 429px;
+  background: url("../images/Administrativos_supervision_Docente/v220_30.png");
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  left: 0px;
+  border: 0.7044854760169983px solid rgba(0,0,0,1);
+}
+.v220_31 {
+  width: 429px;
+  background: url("../images/Administrativos_supervision_Docente/v220_31.png");
+  opacity: 1;
+  position: absolute;
+  top: 136px;
+  left: 0px;
+  border: 0.7044854760169983px solid rgba(0,0,0,1);
+}
+.v220_32 {
+  width: 127px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2px;
+  left: 73px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 15px;
+  opacity: 1;
+  text-align: center;
+}
+.v220_33 {
+  width: 204px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 225px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v220_34 {
+  width: 160px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 56px;
+  left: 247px;
+  font-family: Poppins;
+  font-weight: Light Italic;
+  font-size: 17px;
+  opacity: 1;
+  text-align: center;
+}
+.v220_35 {
+  width: 160px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 146px;
+  left: 247px;
+  font-family: Poppins;
+  font-weight: Light Italic;
+  font-size: 17px;
+  opacity: 1;
+  text-align: center;
+}
+.v239_160 {
+  width: 436px;
+  height: 236px;
+  background: url("../images/Administrativos_supervision_Docente/v239_160.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 600px;
+  left: 483px;
+  box-shadow: 0px 2.817941904067993px 2px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v197_116 {
+  width: 436px;
+  height: 236px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 33px;
+  border-top-right-radius: 33px;
+  border-bottom-left-radius: 33px;
+  border-bottom-right-radius: 33px;
+  overflow: hidden;
+}
+.v220_10 {
+  width: 81px;
+  color: rgba(65,57,57,0.800000011920929);
+  position: absolute;
+  top: 99px;
+  left: 309px;
+  font-family: Poppins;
+  font-weight: Italic;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_157 {
+  width: 81px;
+  color: rgba(65,57,57,0.800000011920929);
+  position: absolute;
+  top: 99px;
+  left: 171px;
+  font-family: Poppins;
+  font-weight: Italic;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_158 {
+  width: 81px;
+  color: rgba(65,57,57,0.800000011920929);
+  position: absolute;
+  top: 99px;
+  left: 21px;
+  font-family: Poppins;
+  font-weight: Italic;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v220_7 {
+  width: 144px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 45px;
+  left: 278px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: center;
+}
+.v197_118 {
+  width: 209px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 106px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 19px;
+  opacity: 1;
+  text-align: center;
+}
+.v220_5 {
+  width: 55px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 45px;
+  left: 21px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: center;
+}
+.v220_6 {
+  width: 76px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 45px;
+  left: 174px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: center;
+}
+.v220_41 {
+  width: 403px;
+  background: url("../images/Administrativos_supervision_Docente/v220_41.png");
+  opacity: 1;
+  position: absolute;
+  top: 86px;
+  left: 21px;
+  border: 0.7044854760169983px solid rgba(0,0,0,1);
+}
+.v220_42 {
+  width: 403px;
+  background: url("../images/Administrativos_supervision_Docente/v220_42.png");
+  opacity: 1;
+  position: absolute;
+  top: 32px;
+  left: 21px;
+  border: 0.7044854760169983px solid rgba(0,0,0,1);
+}
+.v239_161 {
+  width: 332px;
+  height: 238px;
+  background: url("../images/Administrativos_supervision_Docente/v239_161.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 599px;
+  left: 951px;
+  box-shadow: 0px 2.817941904067993px 2px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v220_50 {
+  width: 332px;
+  height: 238px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 33px;
+  border-top-right-radius: 33px;
+  border-bottom-left-radius: 33px;
+  border-bottom-right-radius: 33px;
+  overflow: hidden;
+}
+.v220_51 {
+  width: 332px;
+  background: url("../images/Administrativos_supervision_Docente/v220_51.png");
+  opacity: 1;
+  position: absolute;
+  top: 33px;
+  left: 0px;
+  border: 0.7044854760169983px solid rgba(0,0,0,1);
+}
+.v220_52 {
+  width: 233px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 5px;
+  left: 49px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 19px;
+  opacity: 1;
+  text-align: center;
+}
+.v220_53 {
+  width: 40px;
+  height: 41px;
+  background: url("../images/Administrativos_supervision_Docente/v220_53.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 49px;
+  left: 14px;
+  overflow: hidden;
+}
+.v220_54 {
+  width: 231px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 50px;
+  left: 46px;
+  font-family: Poppins;
+  font-weight: Regular;
+  font-size: 19px;
+  opacity: 1;
+  text-align: center;
+}
+.v263_335 {
+  width: 100%;
+  height: 79px;
+  background: url("../images/Administrativos_supervision_Docente/v263_335.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 63px;
+  left: 128px;
+  overflow: hidden;
+}
+.v263_336 {
+  width: 100%;
+  height: 78px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 104px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v263_337 {
+  width: 286px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 15px;
+  left: 789px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v263_338 {
+  width: 101px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 15px;
+  left: 417px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v263_339 {
+  width: 217px;
+  height: 79px;
+  background: url("../images/Administrativos_supervision_Docente/v263_339.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v263_505 {
+  height: 736px;
+  background: url("../images/Administrativos_supervision_Docente/v263_505.png");
+  opacity: 1;
+  position: absolute;
+  top: 225px;
+  left: 451px;
+  border: 1px solid rgba(190,190,190,1);
+}
+.v263_506 {
+  width: 159px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 372px;
+  left: 192px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v263_510 {
+  width: 239px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 437px;
+  left: 192px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v263_511 {
+  width: 269px;
+  height: 108px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  left: 162px;
+  overflow: hidden;
+}
