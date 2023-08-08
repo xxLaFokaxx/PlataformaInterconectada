@@ -15,7 +15,7 @@ body {
   overflow: hidden;
 }
 .v239_12 {
-  width: 100%;
+  width: 1186px;
   height: 745px;
   background: rgba(255,255,255,1);
   opacity: 1;
@@ -96,8 +96,9 @@ body {
   top: 422px;
   left: 571px;
   font-family: Poppins;
-  font-weight: Bold;
-  font-size: 38px;
+  font-weight: 700;
+  font-size: 38.415px;
+  font-style: normal;
   opacity: 1;
   text-align: left;
 }
@@ -132,8 +133,9 @@ body {
   top: 60px;
   left: 30px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 26px;
+  font-weight: 600;
+  font-size: 26.122px;
+  font-style: normal;
   opacity: 1;
   text-align: left;
 }
@@ -144,8 +146,9 @@ body {
   top: 145px;
   left: 29px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 26px;
+  font-weight: 600;
+  font-size: 26.122px;
+  font-style: normal;
   opacity: 1;
   text-align: left;
 }
@@ -156,8 +159,9 @@ body {
   top: 231px;
   left: 30px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 26px;
+  font-weight: 600;
+  font-size: 26.122px;
+  font-style: normal;
   opacity: 1;
   text-align: left;
 }
@@ -168,8 +172,9 @@ body {
   top: 311px;
   left: 30px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 26px;
+  font-weight: 600;
+  font-size: 26.122px;
+  font-style: normal;
   opacity: 1;
   text-align: left;
 }
@@ -300,8 +305,9 @@ body {
   top: 422px;
   left: 694px;
   font-family: Poppins;
-  font-weight: Bold Italic;
-  font-size: 38px;
+  font-weight: 700;
+  font-size: 38.415px;
+  font-style: italic;
   opacity: 1;
   text-align: left;
 }
@@ -312,8 +318,9 @@ body {
   top: 0px;
   left: 294px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 26px;
+  font-weight: 600;
+  font-size: 26.122px;
+  font-style: normal;
   opacity: 1;
   text-align: left;
 }
@@ -324,8 +331,9 @@ body {
   top: 0px;
   left: 467px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 26px;
+  font-weight: 600;
+  font-size: 26.122px;
+  font-style: normal;
   opacity: 1;
   text-align: left;
 }
@@ -336,8 +344,9 @@ body {
   top: 0px;
   left: 681px;
   font-family: Poppins;
-  font-weight: SemiBold;
-  font-size: 26px;
+  font-weight: 600;
+  font-size: 26.122px;
+  font-style: normal;
   opacity: 1;
   text-align: left;
 }
@@ -352,15 +361,18 @@ body {
 }
 .v263_295 {
   width: 159px;
+  height: 31px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 372px;
   left: 192px;
   font-family: Poppins;
-  font-weight: Medium;
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v263_296 {
   width: 214px;
@@ -373,6 +385,9 @@ body {
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v263_299 {
   width: 239px;
@@ -385,14 +400,20 @@ body {
   font-size: 25px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
 }
 .v263_300 {
   width: 269px;
   height: 108px;
-  background: rgba(255,255,255,1);
+  background: url("../images/Alumnos_ Calificaciones/Rectangle 24.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 242px;
+  top: 241px;
   left: 162px;
   overflow: hidden;
 }
@@ -410,7 +431,7 @@ body {
   overflow: hidden;
 }
 .v299_233 {
-  width: 100%;
+  width: 1082px;
   height: 78px;
   background: rgba(255,255,255,1);
   opacity: 1;
@@ -448,9 +469,9 @@ body {
   text-align: left;
 }
 .v299_236 {
-  width: 217px;
+  width: 219px;
   height: 79px;
-  background: url("../images/Alumnos_Mis cursos_Calificaciones/v299_236.png");
+  background: url("../images/Alumnos_ Calificaciones/Logo baner itla 1.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -459,4 +480,7 @@ body {
   top: 0px;
   left: 0px;
   overflow: hidden;
+}
+#link{
+  text-decoration: none;
 }
