@@ -170,7 +170,9 @@ body {
 .v239_105 {/*Circulo parte de abajo*/
   width: 149px;
   height: 148px;
-  background: rgba(255,255,255,1);
+  background: url("../images/Alumnos_Mis curso_Ventana curso/Ellipse\ 1.png");
+  background-size: cover;
+  margin: auto;
   opacity: 1;
   position: absolute;
   top: 678px;
@@ -180,17 +182,21 @@ body {
 .v239_106 {/*Circulo medio*/
   width: 149px;
   height: 149px;
-  background: rgba(255,246,246,1);
+  background: url("../images/Alumnos_Mis curso_Ventana curso/Ellipse\ 2.png");
+  background-size: cover;
+  margin: auto;
   opacity: 1;
   position: absolute;
   top: 545px;
   left: 644px;
-  border-radius: 50%;
+  border-radius: 149px;
 }
 .v239_107 {/*Circulo superior*/
   width: 149px;
   height: 149px;
   background: url("../images/Alumnos_Mis curso_Ventana curso/Ellipse\ 3.png");
+  background-size: cover;
+  margin: auto;
   opacity: 1;
   position: absolute;
   top: 357px;
