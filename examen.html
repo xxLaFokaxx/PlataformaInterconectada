@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+      <head>
+           <title>
+           Examen 3er Parcial
+        </title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+        <style>
+        #container{
+           background-color: aquamarine;
+           border-radius: 12px;
+           padding-top: 10px;
+           padding-bottom: 10px;
+           border: solid rgb(0, 255, 76) 8px;
+           font-weight: bold;
+        }
+        body{
+            padding-top: 15px;
+            background-color:rgb(205, 226, 255);
+        }
+        #encabezado{
+           font-family: Georgia, 'Times New Roman', Times, serif;
+           font-size: 30px;
+           border-radius: 12px;
+           font-weight: bold;
+        }
+         form{
+           padding-top: 20px;
+        }
+        </style>
+        </head>
+        <body>
+           <div class="container" id="container">
+               <div class="text-center" id="encabezado">
+                    Formulario de Registro
+                </div>
+                <form class="row g-3">
+                    <div class="col-md-6">
+                        <label for="inputNombre" class="form-label">Nombre(s)</label>
+                        <input type="text" class="form-control" id="Nombres" name="Nombres" placeholder="Nombre(s)">
+                    </div>
+                    <div class="col-md-6">
+                       <label for="inputApaterno" class="form-label">Apellido Paterno</label>
+                       <input type="text" class="form-control" id="APaterno" name="APaterno" placeholder="Apellido Paterno">
+                    </div>
+                    <div class="col-md-6">
+                       <label for="inputAmaterno" class="form-label">Apellido Materno</label>
+                       <input type="text" class="form-control" id="AMaterno" name="AMaterno" placeholder="Apellido Materno">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="inputTelefono" class="form-label">Numero Telefono</label>
+                        <input type="tel" class="form-control" id="Telefono" name="Telefono" placeholder="Numero de Telefono">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="inputEdad" class="form-label">Edad</label>
+                        <input type="number" class="form-control" id="Edad" name="Edad" placeholder="Edad">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="inputFecha" class="form-label">Fecha de Nacimiento</label>
+                        <input type="date" class="form-control" id="FechaNac" name="FechaNac" placeholder="Fecha de Nacimiento">
+                    </div>
+                    <div class="col-md-6">
+                       <label for="inputUsuario" class="form-label">Usuario</label>
+                       <input type="text" class="form-control" id="Usuario" name="Usuario" placeholder="Usuario">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="inputContra" class="form-label">Contraseña</label>
+                        <input type="password" class="form-control" id="Contra" name="Contra" placeholder="Contraseña">
+                    </div>
+                    <div class="col-md-5">
+                        <label for="inputCorreo" class="form-label">Correo Electronico</label>
+                        <input type="email" class="form-control" id="Correo" name="Correo" placeholder="Correo Electronico">
+                    </div>
+                    <div class="col-md-2">
+                        <input type="submit" class="btn btn-primary" value="Enviar" id = "Enviar" name="Enviar">Enviar</button>
+                    </div>
+                    <div class="col-md-2">
+                        <button type="reset" class="btn btn-primary">Borrar</button>
+                    </div>
+                </form>
+            </div>
+       </body>
+       </html>
