@@ -27,12 +27,31 @@ body {
 }
 .v239_93 {
   width: 323px;
+  height: 98px;
+  font-size: 24px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 250px;
   left: 490px;
   opacity: 1;
   text-align: left;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.curso_demo{
+  width: 323px;
+  height: 98px;
+  font-size: 38px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 280px;
+  left: 490px;
+  opacity: 1;
+  text-align: left;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 119.5%;
 }
 .v239_94 {
   height: 736px;
@@ -171,12 +190,13 @@ body {
 .v239_107 {/*Circulo superior*/
   width: 149px;
   height: 149px;
-  background: rgb(207, 15, 15);
+  background: url("../images/Alumnos_Mis curso_Ventana curso/Ellipse\ 3.png");
   opacity: 1;
   position: absolute;
   top: 357px;
   left: 483px;
-  border-radius: 50%;
+  border-radius: 900px;
+  flex-shrink: 0;
 }
 .v239_108 {
   width: 139px;
@@ -514,4 +534,8 @@ body {
   top: 0px;
   left: 0px;
   overflow: hidden;
+}
+
+#link{
+  text-decoration: none;
 }
