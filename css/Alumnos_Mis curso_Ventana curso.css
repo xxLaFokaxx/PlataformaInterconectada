@@ -1,0 +1,547 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v193_99 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(81,141,131,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v239_92 {
+  width: 1186px;
+  height: 745px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 214px;
+  left: 127px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.v239_93 {
+  width: 323px;
+  height: 98px;
+  font-size: 24px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 250px;
+  left: 490px;
+  opacity: 1;
+  text-align: left;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.curso_demo{
+  width: 323px;
+  height: 98px;
+  font-size: 38px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 280px;
+  left: 490px;
+  opacity: 1;
+  text-align: left;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 119.5%;
+}
+.v239_94 {
+  height: 736px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/v239_94.png");
+  opacity: 1;
+  position: absolute;
+  top: 225px;
+  left: 998px;
+  border: 1px solid rgba(190,190,190,1);
+}
+.v239_95 {
+  height: 736px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/v239_95.png");
+  opacity: 1;
+  position: absolute;
+  top: 225px;
+  left: 451px;
+  border: 1px solid rgba(190,190,190,1);
+}
+.v239_96 {
+  width: 159px;
+  height: 31px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 372px;
+  left: 192px;
+  font-family: Poppins;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
+}
+.v239_97 {
+  width: 214px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 502px;
+  left: 192px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
+}
+.v239_100 {
+  width: 239px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 437px;
+  left: 192px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 600;
+}
+.v239_101 {/*Imagen de la izquierda*/
+  width: 269px;
+  height: 108px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/Rectangle 24.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  left: 162px;
+  box-shadow: 0px 2.6205642223358154px 2px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+
+.v239_102 {
+  width: 82px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 850px;
+  left: 855px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 23px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_103 {
+  width: 113px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 720px;
+  left: 662px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 23px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_104 {
+  width: 154px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 524px;
+  left: 498px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 23px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_105 {/*Circulo parte de abajo*/
+  width: 149px;
+  height: 148px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/Ellipse\ 1.png");
+  background-size: cover;
+  margin: auto;
+  opacity: 1;
+  position: absolute;
+  top: 678px;
+  left: 821px;
+  border-radius: 50%;
+}
+.v239_106 {/*Circulo medio*/
+  width: 149px;
+  height: 149px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/Ellipse\ 2.png");
+  background-size: cover;
+  margin: auto;
+  opacity: 1;
+  position: absolute;
+  top: 545px;
+  left: 644px;
+  border-radius: 149px;
+}
+.v239_107 {/*Circulo superior*/
+  width: 149px;
+  height: 149px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/Ellipse\ 3.png");
+  background-size: cover;
+  margin: auto;
+  opacity: 1;
+  position: absolute;
+  top: 357px;
+  left: 483px;
+  border-radius: 900px;
+  flex-shrink: 0;
+}
+.v239_108 {
+  width: 139px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 290px;
+  left: 1088px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 23px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_109 {
+  width: 261px;
+  height: 62px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/v239_109.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 382px;
+  left: 1027px;
+  overflow: hidden;
+}
+.v239_110 {
+  width: 261px;
+  height: 62px;
+  background: rgba(37,47,62,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v239_111 {
+  width: 100px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 6px;
+  left: 87px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_112 {
+  width: 88px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 35px;
+  left: 47px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_113 {
+  width: 88px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 37px;
+  left: 151px;
+  font-family: Poppins;
+  font-weight: Italic;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_114 {
+  width: 261px;
+  height: 62px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/v239_114.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 469px;
+  left: 1027px;
+  overflow: hidden;
+}
+.v239_115 {
+  width: 261px;
+  height: 62px;
+  background: rgba(62,84,116,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v239_116 {
+  width: 100px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 6px;
+  left: 87px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_117 {
+  width: 88px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 35px;
+  left: 47px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_118 {
+  width: 88px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 37px;
+  left: 151px;
+  font-family: Poppins;
+  font-weight: Italic;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_119 {
+  width: 261px;
+  height: 62px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/v239_119.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 556px;
+  left: 1027px;
+  overflow: hidden;
+}
+.v239_120 {
+  width: 261px;
+  height: 62px;
+  background: rgba(53,93,151,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v239_121 {
+  width: 100px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 6px;
+  left: 87px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_122 {
+  width: 88px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 35px;
+  left: 47px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_123 {
+  width: 88px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 37px;
+  left: 151px;
+  font-family: Poppins;
+  font-weight: Italic;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_124 {
+  width: 261px;
+  height: 62px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/v239_124.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 643px;
+  left: 1027px;
+  overflow: hidden;
+}
+.v239_125 {
+  width: 261px;
+  height: 62px;
+  background: rgba(53,93,151,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  overflow: hidden;
+}
+.v239_126 {
+  width: 100px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 6px;
+  left: 87px;
+  font-family: Poppins;
+  font-weight: SemiBold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_127 {
+  width: 88px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 35px;
+  left: 47px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_128 {
+  width: 88px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 37px;
+  left: 151px;
+  font-family: Poppins;
+  font-weight: Italic;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
+.v239_129 {
+  width: 88px;
+  color: rgba(3,1,1,1);
+  position: absolute;
+  top: 324px;
+  left: 1114px;
+  font-family: Poppins;
+  font-weight: Italic;
+  font-size: 10px;
+  opacity: 1;
+  text-align: left;
+}
+.v299_222 {
+  width: 100%;
+  height: 79px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/v299_222.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 63px;
+  left: 128px;
+  overflow: hidden;
+}
+.v299_223 {/*Banner inicio salir*/
+  width: 1082px;
+  height: 78px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 104px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.v299_224 {
+  width: 101px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 18px;
+  left: 357px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v299_225 {
+  width: 101px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 18px;
+  left: 886px;
+  font-family: Poppins;
+  font-weight: Medium;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v299_226 {
+  width: 219px;
+  height: 79px;
+  background: url("../images/Alumnos_Mis curso_Ventana curso/Logo baner itla 1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+#link{
+  text-decoration: none;
+}
