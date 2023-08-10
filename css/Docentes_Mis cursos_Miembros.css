@@ -381,13 +381,13 @@ body {
   overflow: hidden;
 }
 .v263_153 {
-  width: 100%;
-  height: 78px;
+  width:  100%;
+  height: 79px;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
   top: 0px;
-  left: 104px;
+  left: 90px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   border-bottom-left-radius: 20px;
@@ -421,7 +421,7 @@ body {
 .v263_157 {
   width: 217px;
   height: 79px;
-  background: url("../images/Docentes_Mis cursos_Miembros/Logo\ baner\ itla\ 1.png");
+  background: url("../images/Docentes_Listas/v263_175.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
