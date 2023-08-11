@@ -53,7 +53,7 @@ body {
   top: 1261.76px;
   left: 180px;
   opacity: 1;
-  height: 280px;
+  height: 333px;
   text-align: justified;
 }
 .v32_44 {
@@ -78,10 +78,17 @@ body {
   color: rgba(0,0,0,1);
   position: absolute;
   top: 1034px;
-  height:206 ;
   left: 180px;
   opacity: 1;
+  height: 333px;
   text-align: justified;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: justified;
+
 }
 .v32_46 {
   width: 358px;
@@ -119,14 +126,14 @@ body {
 }
 .v46_2 {
   width: 358px;
-    height: 278.44px;
+    height: 277.26px;
     background: url(../images/Nosotros/v46_2.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 346px;
+    top: 350.74px;
     left: 881px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -136,13 +143,19 @@ body {
 }
 .v29_23 {
   width: 600px;
-    color: rgba(0,0,0,1);
-    position: absolute;
-    top: 294.22px;
-    left: 180px;
-    opacity: 1;
-    height: 314.52px;
-    text-align: justified;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 300px;
+  left: 180px;
+  opacity: 1;
+  height: 333px;
+  text-align: justified;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: justified;
 
 }
 .v263_14 {
