@@ -4,8 +4,8 @@
 body {
   font-size: 14px;
 }
-.v142_24 {
-  width: 100%;
+.v142_24 { /*inicio*/
+  width: 1440px;
   height: 1024px;
   background: rgba(81,141,131,1);
   opacity: 1;
@@ -17,7 +17,6 @@ body {
 .v235_254 {
   width: 100%;
   height: 745px;
-  background: url("../images/Docentes_Mis cursos/v235_254.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

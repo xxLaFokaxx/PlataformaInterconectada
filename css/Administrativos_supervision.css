@@ -286,3 +286,7 @@ body {
   left: 162px;
   overflow: hidden;
 }
+
+#link{
+  text-decoration: none;
+}
