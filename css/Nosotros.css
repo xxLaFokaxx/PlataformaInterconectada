@@ -55,6 +55,7 @@ body {
   opacity: 1;
   height: 333px;
   text-align: justified;
+  text-rendering: centered;
 }
 .v32_44 {
   width: 358px;
